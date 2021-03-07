@@ -37,7 +37,7 @@
     CSCI 235 Programming Languages  
     Personal Project  
     Java Application	October 2019  
-    https://github.com/some-link  
+    https://github.com/bakdaurenNarbayev/Bakdauren-Narbayev-Java-HW-NURunner   
     NURunner  
     * Used Java to simulate life at my university  
 
