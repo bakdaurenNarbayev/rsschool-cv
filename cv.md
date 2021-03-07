@@ -26,7 +26,7 @@
     CSCI 341 Database Systems  
     Group Project  
     Web Application	October – November 2020  
-    https://github.com/ozhalgas/hotel-chain-management-system  
+    <https://github.com/ozhalgas/hotel-chain-management-system>  
     Hotel Chain System Management    
     * Used Java to provide room booking services  
     * Used HTML, CSS, and JavaScript  
@@ -37,7 +37,7 @@
     CSCI 235 Programming Languages  
     Personal Project  
     Java Application	October 2019  
-    https://github.com/bakdaurenNarbayev/Bakdauren-Narbayev-Java-HW-NURunner   
+    <https://github.com/bakdaurenNarbayev/Bakdauren-Narbayev-Java-HW-NURunner>   
     NURunner  
     * Used Java to simulate life at my university  
 
