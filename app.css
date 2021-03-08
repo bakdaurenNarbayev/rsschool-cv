@@ -1,8 +1,45 @@
 body {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px 75px;
+}
+
+header {
+  margin: auto;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: auto;
+}
+
+main {
+  display: flex;
+  border: solid grey;
+  border: 0 10px;
+  padding: 10px;
+}
+
+aside {
+  margin: auto;
+  width: 33%;
+}
+
+.main-content {
+  margin: auto;
+  width: 67%;
 }
 
 .logo {
   width: 40px;
+}
+
+footer {
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  background-color: grey;
+  color: white;
+  text-align: center;
 }
