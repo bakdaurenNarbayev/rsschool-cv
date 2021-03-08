@@ -15,6 +15,7 @@ h1 {
 }
 
 main {
+  margin: auto;
   display: flex;
   border: solid grey;
   border: 0 10px;
